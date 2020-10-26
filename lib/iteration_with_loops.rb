@@ -13,5 +13,5 @@ def join_nested_strings(src)
     end
     counter = counter + 1
   end
-  full_string
+  return full_string
 end
